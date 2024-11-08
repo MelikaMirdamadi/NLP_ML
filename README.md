@@ -9,7 +9,7 @@ This repository is dedicated to learning and implementing machine learning algor
 - [Text_Preprocessing/Tweet_Preprocessing](https://github.com/aminizahra/NLP_ML/blob/main/01_Text_Preprocessing/01_Tweet_Preprocessing.ipynb):
 This notebook focuses on the essential preprocessing steps for Twitter data, including cleaning, normalization, and text standardization. It prepares raw tweet data for further analysis by handling issues like emojis, special characters, stop words, and case normalization.
 
-Text_Preprocessing/Tweet_FeatureExtraction:
+- [Text_Preprocessing/Tweet_FeatureExtraction](https://github.com/aminizahra/NLP_ML/blob/main/01_Text_Preprocessing/02_Tweet_FeatureExtraction.ipynb):
 This notebook covers various feature extraction techniques for processed tweet text. It includes methods such as Bag of Words, TF-IDF, and other vectorization techniques to convert text data into numerical formats suitable for machine learning models in NLP.
 
 ## Usage
